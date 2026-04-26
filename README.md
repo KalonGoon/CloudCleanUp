@@ -10,7 +10,7 @@ Key findings:
 
 📉 ~12% of assigned licenses went unused in the last 30 days
 
-☁️ AWS spend ran ~2x Azure consistently across all 3 years (~$60,000/month premium)
+☁️ AWS spend ran approx. 2x Azure consistently across all 3 years (~$60,000/month premium)
 
 🚨 8+ billing anomalies flagged using z-score detection — worst spike hit $8,198 in a single day (z-score: 6.89) on 2024-03-01
 
