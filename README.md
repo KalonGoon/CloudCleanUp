@@ -18,4 +18,4 @@ Corporate Finance was the most wasteful department — $556,920 in annual unused
 
 Total identifiable annual savings: $1.2M+
 
-⚠️ All data is simulated. No real Bain Capital data was used. Dataset was generated using Python to reflect realistic PE firm procurement patterns.
+⚠️ All data is simulated. No real data was used. Dataset was generated using Python to reflect realistic PE firm procurement patterns.
